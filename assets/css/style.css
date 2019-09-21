@@ -88,7 +88,7 @@ input[type="Email"] {
     font-size: 14px;
     width: 940px;
 }
-input[type="Message"] {
+textarea {
     border: 1;
     padding: 5px;
     font-size: 14px;
